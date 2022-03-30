@@ -1,4 +1,4 @@
-# Grid Blogger
+# Grid Blogger - LÖSUNG
 
 Benutzt CSS Grid und baut die Blog Startseite nach. Orientiert euch am mockup -
 
